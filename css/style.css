@@ -231,7 +231,7 @@ hr {
 		height: 100px;
 	}
 }
-@media (max-width: 400px) {
+@media (max-width: 440px) {
 	html,
 	body {
 		height: 100%;
